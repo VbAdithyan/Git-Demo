@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>This is branch 3</h1>
+      <h1>This is branch 3 in main</h1>
       <h1>This is branch 1</h1>
       <p>Hai</p>
       <h1>This is branch 2</h1>
